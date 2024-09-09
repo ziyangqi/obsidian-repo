@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58435c875f6417dd",
+        "id": "3aaa53fb4fadf994",
         "type": "tabs",
         "children": [
           {
-            "id": "64e1104a38d25960",
+            "id": "782de17710637ad3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常问题/obsidian文件提交到github.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常问题/obsidian文件提交到github.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日常问题/obsidian文件提交到github.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常问题/obsidian文件提交到github.md"
+                "file": "readme.md"
               }
             }
           },
@@ -149,21 +149,30 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e8eacb934a14915",
+  "active": "782de17710637ad3",
   "lastOpenFiles": [
-    "日常问题/obsidian文件提交到github.md",
+    "Pasted image 20240909143909.png",
+    "readme.md",
     "未命名",
-    "README.md",
-    "obsidian-repo/论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
+    "日常问题/Java 后端整合 Swagger + Knife4j 接口文档.md",
+    "日常问题/obsidian文件提交到github.md",
+    "日常问题/Redis开机变成服务 开启自启动.md",
     "obsidian-repo/论文/Universal Targeted Adversarial Attacks Against mmWave-based Human Activity Recognition.md",
-    "obsidian-repo/错误.md",
+    "中兴温州问题/中兴温州轨道/rabbitMq.md",
+    "obsidian-repo/论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
+    "Pasted image 20240909143912.png.md",
+    "日常问题/Windows查看端口.md",
+    "obsidian-repo/前端部署Ant desgin Pro.md",
     "obsidian-repo/Pro -Com使用问题.md",
+    "Pasted image 20240909143912.png",
+    "README.md",
+    "obsidian-repo/错误.md",
     "截图文件",
     "未命名 1",
     "中兴温州问题",
@@ -171,9 +180,6 @@
     "软件包/本地测试.jmx",
     "软件包/jmeter-plugins-manager-1.10.jar",
     "apache-jmeter-5.4.3.zip",
-    "日常问题/Windows查看端口.md",
-    "日常问题/Redis开机变成服务 开启自启动.md",
-    "日常问题/Java 后端整合 Swagger + Knife4j 接口文档.md",
     "日常问题/flow-api接口文档.md",
     "日常问题",
     "本地测试.jmx",
@@ -182,7 +188,6 @@
     "软件包/日常问题/Redis开机变成服务 开启自启动.md",
     "软件包/日常问题/flow-api接口文档.md",
     "日常问题/物资管理流程引擎排他网关查看.md",
-    "obsidian-repo/前端部署Ant desgin Pro.md",
     "005AE818 1.png",
     "005AE818.png",
     "截图文件/截图照片/Pasted image 20240826093956.png",
@@ -197,13 +202,7 @@
     "中兴温州问题/中兴温州轨道/物资库存导入.md",
     "obsidian-repo/Api项目/api 前端.md",
     "obsidian-repo/Api项目/Api 笔记.md",
-    "中兴温州问题/中兴温州轨道/物资导入S2导入记录.md",
-    "obsidian-repo/任务.md",
-    "截图文件/截图照片/Pasted image 20240830104738.png",
-    "obsidian-repo/zyq项目/Api项目/未命名.md",
-    "截图文件/截图照片/Pasted image 20240829084448.png",
     "李宇春.canvas",
-    "obsidian-repo/食物/鸡公煲.md",
     "未命名 1.canvas"
   ]
 }
