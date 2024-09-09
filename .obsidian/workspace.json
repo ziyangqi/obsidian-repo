@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "中兴温州问题/中兴温州轨道/Java问题/功能特性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a9d5adb1c0d0e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -155,10 +168,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "782de17710637ad3",
+  "active": "0a9d5adb1c0d0e89",
   "lastOpenFiles": [
-    "Pasted image 20240909143909.png",
+    "中兴温州问题/中兴温州轨道/Java问题/功能特性.md",
+    "未命名.md",
+    "中兴温州问题/中兴温州轨道/Java问题/7月.md",
     "readme.md",
+    "Pasted image 20240909143909.png",
     "未命名",
     "日常问题/Java 后端整合 Swagger + Knife4j 接口文档.md",
     "日常问题/obsidian文件提交到github.md",
@@ -200,8 +216,6 @@
     "截图文件/截图照片/Pasted image 20240904173524.png",
     "截图文件/截图照片/Pasted image 20240904173412.png",
     "中兴温州问题/中兴温州轨道/物资库存导入.md",
-    "obsidian-repo/Api项目/api 前端.md",
-    "obsidian-repo/Api项目/Api 笔记.md",
     "李宇春.canvas",
     "未命名 1.canvas"
   ]
