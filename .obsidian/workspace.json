@@ -11,8 +11,12 @@
             "id": "64e1104a38d25960",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日常问题/obsidian文件提交到github.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日常问题/obsidian文件提交到github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日常问题/obsidian文件提交到github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日常问题/obsidian文件提交到github.md"
+              }
             }
           },
           {
@@ -147,8 +155,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "64e1104a38d25960",
+  "active": "1e8eacb934a14915",
   "lastOpenFiles": [
+    "日常问题/obsidian文件提交到github.md",
+    "未命名",
+    "README.md",
     "obsidian-repo/论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
     "obsidian-repo/论文/Universal Targeted Adversarial Attacks Against mmWave-based Human Activity Recognition.md",
     "obsidian-repo/错误.md",
@@ -166,7 +177,6 @@
     "日常问题/flow-api接口文档.md",
     "日常问题",
     "本地测试.jmx",
-    "jmeter-plugins-manager-1.10.jar",
     "软件包/日常问题/Windows查看端口.md",
     "软件包/日常问题/Java 后端整合 Swagger + Knife4j 接口文档.md",
     "软件包/日常问题/Redis开机变成服务 开启自启动.md",
@@ -194,8 +204,6 @@
     "截图文件/截图照片/Pasted image 20240829084448.png",
     "李宇春.canvas",
     "obsidian-repo/食物/鸡公煲.md",
-    "中兴温州问题/中兴温州轨道/流程引擎系统/SDK接口文档.md",
-    "obsidian-repo/Linux/事务.md",
     "未命名 1.canvas"
   ]
 }
