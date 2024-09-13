@@ -516,3 +516,24 @@ if(!IP_WHITE_LIST.contains(sourceAddress)){
 }
 ```
 
+
+
+
+###### 面临的一个问题，希望调用完远程接口只会再输出日志，但是由于异步的原因。接口还没有调用，就已经输出日志了，导致了顺序的冲突。
+
+就是我点击了查看之后，本来应该是先进行接口的GateWay网关中进行转发和查看权限是否有。但是日志是在这里面进行描写的，导致日志信息提前的进行打印。所以顺序有点冲突
+
+**ServerHttpRequest 请求对象里面有一个定义装饰器，可以在这个定义装饰器里面
+作用: 就是在原本的类上面的基础上对其能力进行增强。**
+
+这样就会哪怕它是异步的，执行这个方法的时候，装饰器也可以做额外的事情。
+
+
+*Please set spring.main.web-application-type=reactive or remove spring-boot-starter-web dependency* 
+解决: https://zhuanlan.zhihu.com/p/683185786
+
+```yml
+spring:
+    main:
+        web-application-type: reactive
+```
