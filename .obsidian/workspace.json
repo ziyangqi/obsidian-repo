@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "框架问题/使用智普AI来进行系统的开发.md",
+                "file": "个人信息/信息.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "框架问题/使用智普AI来进行系统的开发.md",
+                "file": "个人信息/信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "框架问题/使用智普AI来进行系统的开发.md",
+                "file": "个人信息/信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "框架问题/使用智普AI来进行系统的开发.md"
+                "file": "个人信息/信息.md"
               }
             }
           },
@@ -157,23 +157,33 @@
   },
   "active": "8197083b9ed92292",
   "lastOpenFiles": [
-    "框架问题/提取yml文件的内容.md",
-    "中兴温州问题/中兴温州轨道/物资库存导入.md",
+    "未命名.canvas",
+    "个人信息/信息.md",
+    "中兴温州问题/中兴温州轨道/SRMO系统/数据库字段.md",
+    "未命名",
+    "个人信息",
+    "~$说明_V0.2.docx",
+    "~$库表结构说明文档.docx",
+    "~$_interface_表结构_1.0.18 1.doc",
+    "yq_interface_表结构_1.0.18 1.doc",
+    "yq_interface_表结构_1.0.18.doc",
+    "数据库表结构说明文档.docx",
+    "接口说明_V0.2.docx",
     "中兴温州问题/中兴温州轨道/物资导入代码.md",
-    "~$根据物资编码获取仓库信息 1.xlsx",
-    "根据物资编码获取仓库信息 1.xlsx",
-    "根据物资编码获取仓库信息.xlsx",
+    "框架问题/使用智普AI来进行系统的开发.md",
+    "中兴温州问题/中兴温州轨道/SRMO系统",
     "中兴温州问题/中兴温州轨道/流程引擎系统/流程引擎SDK开发.md",
+    "中兴温州问题/中兴温州轨道/物资库存导入.md",
+    "框架问题/oKHttp.md",
+    "框架问题/提取yml文件的内容.md",
     "中兴温州问题/中兴温州轨道/jenkins.md",
     "中兴温州问题/中兴温州轨道/流程引擎系统/作用.md",
     "中兴温州问题/中兴温州轨道/流程引擎系统/流程引擎系统正式版本.md",
     "中兴温州问题/中兴温州轨道/流程引擎系统/测试用例07150720已经完成.md",
-    "框架问题/使用智普AI来进行系统的开发.md",
     "日常问题/Java问题/Error.md",
     "2024-09-19.md",
     "日常问题/Java问题/第一周.md",
     "日常问题/zyqHeartAiProject.md",
-    "未命名",
     "obsidian-repo/zyq项目/Api项目/zyq-api.md",
     "readme.md",
     "obsidian-repo/Pro -Com使用问题.md",
@@ -183,11 +193,6 @@
     "中兴温州问题/中兴温州轨道/流程引擎系统/SDK接口文档.md",
     "中兴温州问题/中兴温州轨道/流程引擎系统/遇到的问题.md",
     "日常问题/Windows查看端口.md",
-    "日常问题/Redis开机变成服务 开启自启动.md",
-    "日常问题/Java 后端整合 Swagger + Knife4j 接口文档.md",
-    "日常问题/flow-api接口文档.md",
-    "框架问题/写bat文件.md",
-    "obsidian-repo/zyq项目/AI答题项目",
     "截图文件/Pasted image 20240918112826.png",
     "截图文件/Pasted image 20240918153557.png",
     "截图文件/Pasted image 20240918112821.png",
@@ -196,14 +201,8 @@
     "截图文件/Pasted image 20240918153517.png",
     "截图文件/Pasted image 20240918153046.png",
     "截图文件/Pasted image 20240918145246.png",
-    "论文/研二上",
-    "论文",
-    "毫米波雷达",
-    "框架问题/未命名",
     "截图文件/Pasted image 20240911104839.png",
     "截图文件/Pasted image 20240913104237.png",
-    "框架问题",
-    "未命名.canvas",
     "李宇春.canvas",
     "未命名 1.canvas"
   ]

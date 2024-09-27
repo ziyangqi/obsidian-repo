@@ -77,7 +77,50 @@ public class ClientServiceUtils {
 
 
 ### OkHttpClient 怎么设置超时的时间
+
+
+使用智普AI的时候进行新建的`ClientV4`时候可以有`networkConfig` 点击去看之后如下
+
+``` java 
+/**  
+ * 设置网络请求超时时间  
+ * @param requestTimeOut @see OkHttpClient.Builder#callTimeout(long, TimeUnit)  
+ * @param connectTimeout @see OkHttpClient.Builder#connectTimeout(long, TimeUnit)  
+ * @param readTimeout @see OkHttpClient.Builder#readTimeout(long, TimeUnit)  
+ * @param writeTimeout @see OkHttpClient.Builder#writeTimeout(long, TimeUnit)  
+ * @param timeUnit @see TimeUnit  
+ * @return Builder  
+ */public Builder networkConfig(int requestTimeOut,  
+                             int connectTimeout,  
+                             int readTimeout,  
+                             int writeTimeout,  
+                             TimeUnit timeUnit) {  
+    config.setRequestTimeOut(requestTimeOut);  
+    config.setConnectTimeout(connectTimeout);  
+    config.setReadTimeout(readTimeout);  
+    config.setWriteTimeout(writeTimeout);  
+    config.setTimeOutTimeUnit(timeUnit);  
+    return this;  
+}
 ```
+
+可以调用它来进行修改
+``` java
+@Configuration  
+public class ClientConfig {  
+  
+    // 使用Bean方式初始化  
+    @Bean  
+    public ClientV4 clientV4(ZhiPuAiConfig zhiPuAiConfig){  
+        String key = ZhiPuAiConfig.getKey();  
+  
+        return  new ClientV4  
+                .Builder(key)  
+                .networkConfig(30,60,60,60,TimeUnit.SECONDS)  
+                .build();  
+    }  
+  
+}
 ```
 
 
