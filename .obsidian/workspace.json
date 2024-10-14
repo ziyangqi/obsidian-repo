@@ -11,9 +11,11 @@
             "id": "4339bbe275f25f3b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf"
+                "file": "论文/对比/设备采集.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 200
   },
   "right": {
     "id": "25e39f32f2b3951a",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
+                "file": "论文/对比/设备采集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
-                "linksCollapsed": false,
+                "file": "论文/对比/设备采集.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf"
+                "file": "论文/对比/设备采集.md"
               }
             }
           },
@@ -144,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,14 +165,25 @@
   },
   "active": "4339bbe275f25f3b",
   "lastOpenFiles": [
-    "论文文件/基于深度学习的毫米波雷达非接触心率检测技术研究_李洪飞.pdf",
-    "论文文件/High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.pdf",
     "论文/研二上/电子科大基于毫米波雷达的心跳呼吸检测技术研究和实现.md",
     "论文/研二上/北理工High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.md",
-    "论文/研二上/基于深度学习的毫米波雷达非接触心率检测技术研究.md",
-    "论文/研二上/CONTACTLESS RADAR HEART RATE VARIABILITY MONITORING VIA DEEP SPATIO-TEMPORAL MODELING                                         基于深时空模型的非接触雷达心率变异性监测.md",
-    "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
     "论文/对比/设备采集.md",
+    "论文/研二上/mmECG Monitoring Human Cardiac Cycle in Driving Environments Leveraging Millimeter Wave.md",
+    "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
+    "论文/研二上/基于深度学习的毫米波雷达非接触心率检测技术研究.md",
+    "论文文件/High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.pdf",
+    "论文文件/基于深度学习的毫米波雷达非接触心率检测技术研究_李洪飞.pdf",
+    "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
+    "中兴温州问题/中兴温州轨道/jenkins.md",
+    "中兴温州问题/中兴温州轨道/物资库存导入.md",
+    "中兴温州问题/中兴温州轨道/物资导入代码.md",
+    "日常问题/Java问题/第一周.md",
+    "日常问题/Java问题/7月.md",
+    "日常问题/Java问题/功能特性.md",
+    "日常问题/Windows查看端口.md",
+    "日常问题/zyqHeartAiProject.md",
+    "个人信息/信息.md",
+    "论文/研二上/CONTACTLESS RADAR HEART RATE VARIABILITY MONITORING VIA DEEP SPATIO-TEMPORAL MODELING                                         基于深时空模型的非接触雷达心率变异性监测.md",
     "Pasted image 20241014105610.png",
     "截图文件/Pasted image 20241009153734.png",
     "论文文件",
@@ -180,32 +193,22 @@
     "截图文件/Pasted image 20241009160317.png",
     "截图文件/Pasted image 20241011112225.png",
     "截图文件/Pasted image 20241009160538.png",
-    "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
     "论文/对比",
     "框架问题/rabbitMq.md",
     "框架问题/提取yml文件的内容.md",
     "截图文件/Pasted image 20241009165816.png",
-    "日常问题/zyqHeartAiProject.md",
     "日常问题/Java 后端整合 Swagger + Knife4j 接口文档.md",
     "日常问题/使用GitHub的问题.md",
     "obsidian-repo/zyq项目/Api项目/zyq-api.md",
-    "个人信息/信息.md",
     "中兴温州问题/中兴温州轨道/SRMO系统/数据库字段.md",
     "个人信息",
     "~$说明_V0.2.docx",
     "~$库表结构说明文档.docx",
     "~$_interface_表结构_1.0.18 1.doc",
-    "中兴温州问题/中兴温州轨道/物资导入代码.md",
     "框架问题/使用智普AI来进行系统的开发.md",
     "中兴温州问题/中兴温州轨道/流程引擎系统/流程引擎SDK开发.md",
-    "中兴温州问题/中兴温州轨道/物资库存导入.md",
     "框架问题/oKHttp.md",
-    "中兴温州问题/中兴温州轨道/jenkins.md",
     "中兴温州问题/中兴温州轨道/流程引擎系统/作用.md",
-    "中兴温州问题/中兴温州轨道/流程引擎系统/流程引擎系统正式版本.md",
-    "中兴温州问题/中兴温州轨道/流程引擎系统/测试用例07150720已经完成.md",
-    "日常问题/Java问题/Error.md",
-    "2024-09-19.md",
     "截图文件/Pasted image 20240918112826.png",
     "截图文件/Pasted image 20240918153557.png",
     "截图文件/Pasted image 20240918112821.png",
