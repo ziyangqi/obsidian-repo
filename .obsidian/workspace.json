@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -165,9 +165,9 @@
   },
   "active": "4339bbe275f25f3b",
   "lastOpenFiles": [
-    "论文/研二上/电子科大基于毫米波雷达的心跳呼吸检测技术研究和实现.md",
     "论文/研二上/北理工High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.md",
     "论文/对比/设备采集.md",
+    "论文/研二上/电子科大基于毫米波雷达的心跳呼吸检测技术研究和实现.md",
     "论文/研二上/mmECG Monitoring Human Cardiac Cycle in Driving Environments Leveraging Millimeter Wave.md",
     "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
     "论文/研二上/基于深度学习的毫米波雷达非接触心率检测技术研究.md",
