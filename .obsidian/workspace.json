@@ -11,17 +11,66 @@
             "id": "bc1bac1ff1919673",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "截图文件/1729492940264.png"
+              },
+              "icon": "lucide-image",
+              "title": "1729492940264"
+            }
+          },
+          {
+            "id": "0e40cdb7f5f7bcda",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "截图文件/Pasted image 20241014105610.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241014105610"
+            }
+          },
+          {
+            "id": "af9bad540258a66e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "截图文件/Pasted image 20241014105610.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241014105610"
+            }
+          },
+          {
+            "id": "f7f34c6fcbaa2eca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "截图文件/Pasted image 20241014105610.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241014105610"
+            }
+          },
+          {
+            "id": "2f1364f5a60126bc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/研二上/Machine_Learning_for_Healthcare_Radars_Recent_Progresses_in_Human_Vital_Sign_Measurement_and_Activity_Recognition.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine_Learning_for_Healthcare_Radars_Recent_Progresses_in_Human_Vital_Sign_Measurement_and_Activity_Recognition"
+              "title": "readme"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,30 +233,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc1bac1ff1919673",
+  "active": "2f1364f5a60126bc",
   "lastOpenFiles": [
-    "Pasted image 20241021173553.png",
-    "Pasted image 20241021173515.png",
-    "Pasted image 20241021173059.png",
-    "Pasted image 20241021171054.png",
-    "论文/对比/设备采集.md",
+    "会议记录/2024-10-14/2024-10-14.md",
+    "会议记录/2024-10-14",
+    "会议纪律/2024-10-14.md",
+    "会议记录",
+    "readme.md",
+    "截图文件/Pasted image 20241021173553.png",
+    "未命名.canvas",
+    "截图文件/Pasted image 20241014105610.png",
+    "论文/毫米波雷达.md",
+    "[.md",
+    "截图文件/1729492940264.png",
     "论文/研二上/Machine_Learning_for_Healthcare_Radars_Recent_Progresses_in_Human_Vital_Sign_Measurement_and_Activity_Recognition.md",
+    "截图文件/Pasted image 20241021173515.png",
+    "截图文件/Pasted image 20241021173059.png",
+    "截图文件/Pasted image 20241021171054.png",
+    "论文/对比/设备采集.md",
     "论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
     "论文文件/医疗雷达的机器学习：人体生命体征测量和活动识别的最新进展Machine_Learning_for_Healthcare_Radars_Recent_Progresses_in_Human_Vital_Sign_Measurement_and_Activity_Recognition.pdf",
-    "Pasted image 20241021165344.png",
-    "Pasted image 20241021165119.png",
-    "Pasted image 20241021165117.png",
+    "截图文件/Pasted image 20241021165344.png",
+    "截图文件/Pasted image 20241021165119.png",
+    "截图文件/Pasted image 20241021165117.png",
     "论文/研二上/CONTACTLESS RADAR HEART RATE VARIABILITY MONITORING VIA DEEP SPATIO-TEMPORAL MODELING                                         基于深时空模型的非接触雷达心率变异性监测.md",
     "论文/研二上/北理工High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.md",
-    "论文/毫米波雷达.md",
     "论文/Universal Targeted Adversarial Attacks Against mmWave-based Human Activity Recognition.md",
     "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
-    "[.md",
-    "Pasted image 20241021155826.png",
-    "Pasted image 20241021155703.png",
-    "Pasted image 20241021155315.png",
-    "Pasted image 20241021154821.png",
-    "2024-10-14.md",
+    "截图文件/Pasted image 20241021155826.png",
     "conflict-files-obsidian-git.md",
     "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
     "论文/论文/研究1下学期/Heart Rate Sensing with a Robot Mounted mmWave Radar.md",
@@ -219,7 +272,6 @@
     "论文/论文/AI-Powered Noncontact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing.md",
     "论文/论文/Bakhtiari et al. - 2011 - A real-time heart rate analysis for a remote milli.md",
     "论文/论文",
-    "未命名.canvas",
     "授权接口修改.md",
     "中兴温州问题/中兴温州轨道/物资库存导入.md",
     "论文/研二上/电子科大基于毫米波雷达的心跳呼吸检测技术研究和实现.md",
@@ -227,12 +279,8 @@
     "论文/研二上/基于深度学习的毫米波雷达非接触心率检测技术研究.md",
     "论文文件/High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.pdf",
     "论文文件/基于深度学习的毫米波雷达非接触心率检测技术研究_李洪飞.pdf",
-    "中兴温州问题/中兴温州轨道/jenkins.md",
-    "中兴温州问题/中兴温州轨道/物资导入代码.md",
     "论文文件",
     "个人信息/未命名",
-    "论文/对比",
-    "个人信息",
     "李宇春.canvas",
     "未命名 1.canvas"
   ]
