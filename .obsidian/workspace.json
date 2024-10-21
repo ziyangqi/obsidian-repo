@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "169c22eba9ed3d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-14.md"
+                "file": "论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md"
               }
             }
           },
@@ -155,10 +168,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a02b13f3734e6830",
+  "active": "169c22eba9ed3d6e",
   "lastOpenFiles": [
-    "SkySelect/Obsidian Vault/zyq/中兴温州轨道/jenkins.md",
+    "论文/Universal Targeted Adversarial Attacks Against mmWave-based Human Activity Recognition.md",
+    "论文/对比/设备采集.md",
     "2024-10-14.md",
+    "授权接口修改.md",
+    "conflict-files-obsidian-git.md",
+    "截图文件/Pasted image 20241009165816.png",
+    "截图文件/Pasted image 20241011112225.png",
+    "截图文件/3bb290cf23330fddcca911d19a9b61c.png",
+    "截图文件/Pasted image 20241009160538.png",
+    "Pasted image 20241016151232.png",
+    "Pasted image 20241014105610.png",
+    "截图文件/Pasted image 20241009160317.png",
+    "截图文件/Pasted image 20241009153734.png",
+    "论文文件/基于深度学习的毫米波雷达非接触心率检测技术研究_李洪飞.pdf",
+    "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
+    "论文文件/High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.pdf",
+    "论文文件",
+    "论文/研二上/电子科大基于毫米波雷达的心跳呼吸检测技术研究和实现.md",
+    "论文/研二上/基于深度学习的毫米波雷达非接触心率检测技术研究.md",
+    "论文/研二上/北理工High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.md",
+    "论文/对比",
+    "框架问题/oKHttp.md",
+    "数据库表结构说明文档.docx",
+    "接口说明_V0.2.docx",
+    "中兴温州问题/中兴温州轨道/SRMO系统/数据库字段.md",
+    "中兴温州问题/中兴温州轨道/SRMO系统",
+    "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
+    "个人信息/信息.md",
+    "个人信息",
+    "yq_interface_表结构_1.0.18.doc",
+    "SkySelect/Obsidian Vault/zyq/中兴温州轨道/jenkins.md",
     "未命名.canvas",
     "论文/论文/研究1下学期/Contactless Electrocardiogram Monitoring With Millimeter Wave Radar.md",
     "obsidian-repo/前端部署Ant desgin Pro.md",
@@ -166,7 +208,6 @@
     "论文/论文/研究1下学期/Automatic Contact-Less Monitoring of Breathing Rate and Heart Rate Utilizing the Fusion of mmWave Radar and Camera Steering System.md",
     "论文/论文/研究1下学期/Heart Rate Sensing with a Robot Mounted mmWave Radar.md",
     "论文/论文/AI-Powered Noncontact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing.md",
-    "论文/Universal Targeted Adversarial Attacks Against mmWave-based Human Activity Recognition.md",
     "论文/研二上/mmECG Monitoring Human Cardiac Cycle in Driving Environments Leveraging Millimeter Wave.md",
     "论文/研二上/CONTACTLESS RADAR HEART RATE VARIABILITY MONITORING VIA DEEP SPATIO-TEMPORAL MODELING                                         基于深时空模型的非接触雷达心率变异性监测.md",
     "obsidian-repo/zyq项目/Api项目/zyq-api.md",
@@ -174,36 +215,8 @@
     "框架问题/redis.md",
     "readme.md",
     "SkySelect/Obsidian Vault/项目Java/智能bi/智能BI项目.md",
-    "SkySelect/Obsidian Vault/项目Java/AIAItaro/页面间的传递传输.md",
-    "SkySelect/Obsidian Vault/SSM基础项目从零搭建/仓库.md",
-    "SkySelect/Obsidian Vault/2024-08-21.md",
     "SkySelect/Obsidian Vault/419325c1ba9721c8e6c9d39ebb5599d.png",
-    "SkySelect/Obsidian Vault/技术总结.md",
-    "SkySelect/Obsidian Vault/day1.pdf",
-    "SkySelect/Obsidian Vault/智能BI项目.pdf",
-    "论文/Vital Sign Monitoring in Dynamic Environment via mmWave Radar and Camera Fusion.md",
-    "框架问题/使用智普AI来进行系统的开发.md",
-    "框架问题/mybatis-plus.md",
-    "框架问题/Maven.md",
-    "框架问题/写bat文件.md",
-    "框架问题/提取yml文件的内容.md",
     "截图文件/截图照片/4fa964013660c753522276abdef8d70.png",
-    "截图文件/截图照片/Pasted image 20240731151554.png",
-    "截图文件/截图照片/Pasted image 20240826093956.png",
-    "截图文件/截图照片/Pasted image 20240730174447.png",
-    "截图文件/截图照片/Pasted image 20240725172524.png",
-    "截图文件/截图照片/Pasted image 20240715102907.png",
-    "截图文件/截图照片/Pasted image 20240905160901.png",
-    "截图文件/截图照片/Pasted image 20240731143708.png",
-    "截图文件/截图照片/Pasted image 20240726095204.png",
-    "~$根据物资编码获取仓库信息 1.xlsx",
-    "根据物资编码获取仓库信息 1.xlsx",
-    "根据物资编码获取仓库信息.xlsx",
-    "未命名",
-    "obsidian-repo/zyq项目/AI答题项目",
-    "论文/研二上",
-    "论文",
-    "毫米波雷达",
     "李宇春.canvas",
     "未命名 1.canvas"
   ]
