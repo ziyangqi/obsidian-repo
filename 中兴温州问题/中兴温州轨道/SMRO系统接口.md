@@ -478,3 +478,21 @@ public class AppInfoServiceImpl extends ServiceImpl<AppInfoMapper, AppInfo>
     </where>  
 </select>
 ```
+
+
+
+### 接口
+
+accessKey：13bfb3c71ee19d7b09c1fcb761a833a0
+secretKey：94b69c3c32be66cdd84865b73a3207c3
+
+
+``` json
+{
+  "code": 0,
+  "data": {
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxM2JmYjNjNzFlZTE5ZDdiMDljMWZjYjc2MWE4MzNhMCIsImFjY2Vzc0tleSI6IjgyZjY5YjhmYWExMDFmNGNjZmJjMmMwYzkyYWMzYzVkIiwic2VjcmV0S2V5IjoiMTNiZmIzYzcxZWUxOWQ3YjA5YzFmY2I3NjFhODMzYTAiLCJpYXQiOjE3MjkwNjI5OTcsImV4cCI6MTczMDM1ODk5N30.jU3JE0dW5iXxvW_LcRt21V-IFlXgyd-s3c_vKTfic_g4zcstAMr9OV0vv5eXqUiYKLlBJg_qs-8luHRYVdDs7w"
+  },
+  "message": "ok"
+}
+```

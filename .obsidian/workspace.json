@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/对比/设备采集.md",
+                "file": "日常问题/Java问题/功能特性.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "功能特性"
+            }
+          },
+          {
+            "id": "2a27345a72efea3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMRO系统接口"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,10 +83,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/对比/设备采集.md",
+                "file": "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "SMRO系统接口 的反向链接列表"
             }
           },
           {
@@ -102,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/对比/设备采集.md",
+                "file": "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "SMRO系统接口 的出链列表"
             }
           },
           {
@@ -116,7 +144,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/对比/设备采集.md"
-              }
+                "file": "中兴温州问题/中兴温州轨道/SMRO系统接口.md"
+              },
+              "icon": "lucide-list",
+              "title": "SMRO系统接口 的大纲"
             }
           },
           {
@@ -134,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -142,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -163,19 +199,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4339bbe275f25f3b",
+  "active": "2236d4a56f1ff26c",
   "lastOpenFiles": [
-    "论文/研二上/北理工High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.md",
+    "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
+    "授权接口修改.md",
+    "未命名.canvas",
+    "Pasted image 20241016151232.png",
+    "中兴温州问题/中兴温州轨道/物资库存导入.md",
     "论文/对比/设备采集.md",
+    "论文/研二上/北理工High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.md",
     "论文/研二上/电子科大基于毫米波雷达的心跳呼吸检测技术研究和实现.md",
     "论文/研二上/mmECG Monitoring Human Cardiac Cycle in Driving Environments Leveraging Millimeter Wave.md",
     "论文文件/基于毫米波雷达的心跳呼吸检测技术研究和实现_蔺涵葳.pdf",
     "论文/研二上/基于深度学习的毫米波雷达非接触心率检测技术研究.md",
     "论文文件/High-Precision Vital Signs Monitoring Method Using a FMCW Millimeter-Wave Sensor.pdf",
     "论文文件/基于深度学习的毫米波雷达非接触心率检测技术研究_李洪飞.pdf",
-    "中兴温州问题/中兴温州轨道/SMRO系统接口.md",
     "中兴温州问题/中兴温州轨道/jenkins.md",
-    "中兴温州问题/中兴温州轨道/物资库存导入.md",
     "中兴温州问题/中兴温州轨道/物资导入代码.md",
     "日常问题/Java问题/第一周.md",
     "日常问题/Java问题/7月.md",
@@ -189,7 +228,6 @@
     "论文文件",
     "个人信息/未命名",
     "截图文件/3bb290cf23330fddcca911d19a9b61c.png",
-    "未命名.canvas",
     "截图文件/Pasted image 20241009160317.png",
     "截图文件/Pasted image 20241011112225.png",
     "截图文件/Pasted image 20241009160538.png",
@@ -208,10 +246,8 @@
     "框架问题/使用智普AI来进行系统的开发.md",
     "中兴温州问题/中兴温州轨道/流程引擎系统/流程引擎SDK开发.md",
     "框架问题/oKHttp.md",
-    "中兴温州问题/中兴温州轨道/流程引擎系统/作用.md",
     "截图文件/Pasted image 20240918112826.png",
     "截图文件/Pasted image 20240918153557.png",
-    "截图文件/Pasted image 20240918112821.png",
     "李宇春.canvas",
     "未命名 1.canvas"
   ]
